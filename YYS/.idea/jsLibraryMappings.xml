@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{OwlCarousel2, buttons.bootstrap, buttons.bootstrap4, buttons.colVis, buttons.dataTables, buttons.html5, buttons.print, dataTables.bootstrap, dataTables.bootstrap4, dataTables.buttons, dataTables.responsive, demo, jquery, jquery-3.5.1, jquery-3.6.0, jquery-nice-select, jquery.dataTables, jszip, pdfmake}" />
+  </component>
+</project>
